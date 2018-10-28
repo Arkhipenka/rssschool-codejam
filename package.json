@@ -1,0 +1,27 @@
+{
+  "name": "codejam1",
+  "version": "1.0.0",
+  "description": "task of Rolling Scopes School",
+  "main": "make.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arkhipenka/rsscool-codejam.git"
+  },
+  "keywords": [
+    "vedi13"
+  ],
+  "author": "Arkhipenka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arkhipenka/rsscool-codejam/issues"
+  },
+  "homepage": "https://github.com/Arkhipenka/rsscool-codejam#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
